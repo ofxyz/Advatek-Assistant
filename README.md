@@ -1,4 +1,4 @@
-# AdvatekAssistant
+# Advatek Assistant
 
 > Configure your Advatek control devices on Linux
 
